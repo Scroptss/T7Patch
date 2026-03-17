@@ -1,1 +1,1 @@
-https://github.com/shiversoftdev/t7patch
+how to use: https://github.com/shiversoftdev/t7patch
