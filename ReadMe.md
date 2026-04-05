@@ -1,4 +1,4 @@
-Original ReadME: https://github.com/shiversoftdev/t7patch
+Original ReadMe: https://github.com/shiversoftdev/t7patch
 
 Windows only for now, as I don't have a linux machine. Reach out to me on [Discord](https://discord.com/users/227398052380540929) if you want to help support linux.
 
