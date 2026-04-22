@@ -1,7 +1,7 @@
 Original ReadMe: https://github.com/shiversoftdev/t7patch
 
 All security patches from [shiversoftdev's public repo](https://github.com/shiversoftdev/Black-Ops-3-Projects) (v2.03) are included in this patch. 
-If you happen to have the source for 2.04 and wouldn't mind sharing it, please reach out to me on Discord.
+If you happen to have the source for 2.04 and wouldn't mind sharing it, please reach out to me on [Discord.](https://discord.gg/9DqduCecrp)
 
 [T7Patch-src](https://github.com/Scroptss/T7Patch-src)
 
