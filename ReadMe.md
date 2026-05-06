@@ -1,11 +1,17 @@
-Original ReadMe: https://github.com/shiversoftdev/t7patch
+[![Releases](https://img.shields.io/github/downloads/Scroptss/T7patch/total.svg)](https://github.com/Scroptss/T7patch/)
+
+# T7Patch
+Original Repo: https://github.com/shiversoftdev/t7patch
 
 All security patches from [shiversoftdev's public repo](https://github.com/shiversoftdev/Black-Ops-3-Projects) (v2.03) are included in this patch. 
-If you happen to have the source for 2.04 and wouldn't mind sharing it, please reach out to me on [Discord.](https://discord.gg/9DqduCecrp)
+If you happen to have the source code for 2.04 and wouldn't mind sharing it, please reach out to me on [Discord.](https://discord.gg/9DqduCecrp)
 
-[T7Patch-src](https://github.com/Scroptss/T7Patch-src)
+Source Code: [T7Patch-src](https://github.com/Scroptss/T7Patch-src)
 
-Thank you Alyssa for making this game safe and playable for so long.
+Thank you Alyssa for making this game safe and playable for so long
+
+# Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/scropts)
 
 # Windows Instructions
 
@@ -22,4 +28,5 @@ Thank you Alyssa for making this game safe and playable for so long.
 4. Change your proton version and enable steam play compatibility\
 ![s3](https://github.com/shiversoftdev/t7patch/blob/main/steam3.png)
 5. Edit your settings in the t7patch.conf file provided (name, friends only, etc). **You can edit these while the game is running too**.
+
 
