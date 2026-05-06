@@ -20,7 +20,7 @@ Thank you Alyssa for making this game safe and playable for so long
 3. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
 
 # Linux/Steamdeck Instructions
-1. Download [the linux zip](https://github.com/Scroptss/T7Patch/releases/v3.02/) and extract the files into your Black Ops 3 installation folder
+1. Download [the linux zip](https://github.com/Scroptss/T7Patch/releases/v3.03/) and extract the files into your Black Ops 3 installation folder
 2. Open steam properties\
 ![s1](https://github.com/shiversoftdev/t7patch/blob/main/steam1.png)
 3. Change the launch options to match the image below\
