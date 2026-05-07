@@ -15,12 +15,12 @@ Thank you Alyssa for making this game safe and playable for so long
 
 # Windows Instructions
 
-1. Download [the patch](https://github.com/Scroptss/T7Patch/releases/v3.02/).
+1. Download [the patch](https://github.com/Scroptss/T7Patch/releases/).
 2. Watch the [video tutorial](https://youtu.be/jDQkNV5J4SM?t=394). Read the FAQ for additional info before asking questions. Note that as of update 2.03, you will need to extract **all of the files into a folder**.
 3. If not playing in matchmaking, set a network password to enable the best protection. Note that anyone who wants to play with you needs to have the same network password. If you want to play in normal matchmaking again, clear the network password.
 
 # Linux/Steamdeck Instructions
-1. Download [the linux zip](https://github.com/Scroptss/T7Patch/releases/v3.03/) and extract the files into your Black Ops 3 installation folder
+1. Download [the linux zip](https://github.com/Scroptss/T7Patch/releases/) and extract the files into your Black Ops 3 installation folder
 2. Open steam properties\
 ![s1](https://github.com/shiversoftdev/t7patch/blob/main/steam1.png)
 3. Change the launch options to match the image below\
