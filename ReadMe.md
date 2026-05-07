@@ -10,9 +10,6 @@ Source Code: [T7Patch-src](https://github.com/Scroptss/T7Patch-src)
 
 Thank you Alyssa for making this game safe and playable for so long
 
-# Support Me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/scropts)
-
 # Windows Instructions
 
 1. Download [the patch](https://github.com/Scroptss/T7Patch/releases/v3.03/).
